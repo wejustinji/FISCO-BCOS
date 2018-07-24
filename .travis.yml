@@ -1,2 +1,2 @@
 language: shell
-script: uname -a && cat /etc/centos-release
+script: uname -a && ls /etc/*centos* 
