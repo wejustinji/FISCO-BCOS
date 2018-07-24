@@ -1,2 +1,2 @@
 language: shell
-script: sb_release -a
+script: lsb_release -a
