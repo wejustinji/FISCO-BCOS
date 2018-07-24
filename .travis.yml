@@ -1,2 +1,2 @@
-language: shell
-script: sh script/test.sh
+language: python
+script: python script/test.py
