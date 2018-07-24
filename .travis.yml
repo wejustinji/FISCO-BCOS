@@ -1,2 +1,2 @@
 language: shell
-script: uname -a && ls /etc/*centos* 
+script: sb_release -a
