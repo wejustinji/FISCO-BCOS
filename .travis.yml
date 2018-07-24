@@ -1,2 +1,2 @@
 language: shell
-script: pwd
+script: uname -a && cat /etc/centos-release
