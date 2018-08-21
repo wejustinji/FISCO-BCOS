@@ -1,4 +1,5 @@
 #! /bin/sh
+#aa
 #stop fisco-bcos
 name=`pwd`/config.json
 agent_pid=`ps aux|grep "$name"|grep -v grep|awk '{print $2}'`
