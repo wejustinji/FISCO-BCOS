@@ -1,2 +1,2 @@
 language: shell
-script: lsb_release -a && java -version
+script: lsb_release -a && java -version && top -n 1
